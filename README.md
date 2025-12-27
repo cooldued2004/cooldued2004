@@ -1,37 +1,115 @@
-<div align="center">
+# 💫 Hi, Karan here!
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=180&section=header&text=Karan%20Sharma&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20Computer%20Vision%20%26%20Predictive%20Modeling&descAlignY=52"/>
+👋 I'm **Karan Sharma** — a passionate **AI & Machine Learning Engineer** who loves building  
+real-world impactful solutions using **Deep Learning, Computer Vision & Predictive Modeling**.
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A960FF&center=true&vCenter=true&width=600&lines=Turning+Data+into+Decisions+using+AI;Deep+Learning+%7C+Computer+Vision+%7C+NLP;AI+%26+Machine+Learning+Engineer"/>
+> "AI is not the future — it’s what I build today."
 
-<br/>
-
-<!-- Badges -->
-<a href="https://karanportfoliowebsite.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel"/></a>
-<a href="https://www.linkedin.com/in/karan-1705-sharma/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:karan2922sharma@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<img src="https://komarev.com/ghpvc/?username=cooldued2004&style=for-the-badge&color=blueviolet&label=VIEWS"/>
-
-</div>
+📌 B.Tech (CSE - AI/ML)  
+🏫 Dr. D.Y. Patil Ramrao Adik Institute of Technology, Navi Mumbai  
+🔥 Highly active in AI/ML product building & open collaboration for Hackathons  
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 What I Do
 
-Hi! I'm **Karan Sharma**, a passionate **AI & Machine Learning Engineer** pursuing **B.Tech CSE (AI/ML)**.  
-I love building **Computer Vision**, **Predictive Modeling**, and **Intelligent Systems** that solve real-world problems.
+- 🤖 AI Models that scale — CNN, RNN, XGBoost, Transformers
+- 🌦 Predictive Analytics for Climate & Agriculture
+- 🖼 Computer Vision using PyTorch, TensorFlow and EfficientNet/ResNet
+- 📊 Explainability with SHAP / real-world ML deployment
+- ⚙️ Backend Integration using FastAPI, Firebase, Git & Cloud
 
-🎯 *AI & Machine Learning Engineer | Computer Vision & Predictive Modeling | Python, TensorFlow, PyTorch*
+---
 
-```python
-class KaranSharma:
-    def __init__(self):
-        self.role = "AI/ML Engineer"
-        self.specialization = ["Deep Learning", "Computer Vision", "Predictive Analytics"]
-        self.current_focus = "Building high-performance AI models"
-        
-    def collaboration_interests(self):
-        return ["AI/ML Research", "Full-stack AI apps", "Real-world ML deployment"]
+## 🏆 Tech Achievements
+
+### 🌩️ AI & ML Certifications
+- 🧠 AWS Academy Graduate – Machine Learning Foundations **(2025)**
+- 💼 Accenture UK Developer & Technology Virtual Program — **2024**
+- 🎯 Artificial Intelligence Fundamentals — **2024**
+- 🔍 Application of AI — **2024**
+- 📚 ML + DL + NLP Bootcamp — Udemy **(Ongoing)**
+
+---
+
+## 🚀 My Top Projects
+
+### 🌾 Agrisense — Smart Agriculture AI  
+**Crop yield prediction + disease classification**  
+- 94%+ accuracy on multi-model stacked architecture  
+- CNN disease detection using **ResNet-50 & EfficientNet-B3**  
+- Automated & GPU-optimized ML workflow  
+🔗 https://github.com/cooldued2004/Agrisense
+
+---
+
+### 🌦️ ClimAI — Weather Intelligence System  
+Multi-target forecasting for **temperature, humidity & rainfall**  
+- Advanced ensemble ML ~~ Forest, XGBoost, SVM  
+- SHAP-powered model explainability  
+- R² score: **0.90**  
+🔗 https://github.com/cooldued2004/ClimAI
+
+---
+
+### 🧑‍💼 Pro-Headshot-AI — AI Portrait Enhancer  
+- Enhances professional headshots using CV + Generative AI  
+🔗 https://github.com/cooldued2004/Pro-Headshot-Ai
+
+---
+
+### 🛡️ Gemini Trust Lens  
+LLM **Truth-Scoring System** for safety + response validation  
+🔗 https://github.com/cooldued2004/Gemini-Trust-Lens
+
+---
+
+### 📚 Study Buddy — Productivity App  
+Pomodoro + To-Do + Focus Music  
+🔗 https://github.com/cooldued2004/SBL_test_practise
+
+---
+
+### ⭐ Upcoming Flagship Project  
+#### 🌱 SmartAgroVision → Climate & Farm Intelligence Suite  
+> AI for real-world agriculture & home gardening 🌍  
+*(Coming soon — follow for progress!)*  
+
+---
+
+## 🛠️ Tech Arsenal
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-0A0A0A?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=cooldued2004&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cooldued2004&theme=radical&layout=compact&hide_border=false)
+
+---
+
+## 📄 Resume & Contact
+
+📩 Email → **karan2922sharma@gmail.com**  
+🌐 Portfolio → https://karanportfoliowebsite.vercel.app/  
+💼 LinkedIn → https://www.linkedin.com/in/karan-1705-sharma/  
+📄 Resume → [Click Here to View](https://www.linkedin.com/in/karan-1705-sharma/overlay/1766306748810/single-media-viewer/?profileId=ACoAAEiScrcB1x7uMqiYbsmaPUCoDpmsLwp97h4)
+
+---
+
+## 🤝 Open to Collaboration!
+> Always ready to join **AI Hackathons + Startup ML teams**  
+Let’s solve real-world challenges with AI 🚀
+
+---
