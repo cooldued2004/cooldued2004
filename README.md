@@ -79,7 +79,6 @@ Pomodoro + To-Do + Focus Music
 ---
 
 ## 🛠️ Tech Arsenal
-
 ### 🚀 AI / Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -87,6 +86,9 @@ Pomodoro + To-Do + Focus Music
 ![XGBoost](https://img.shields.io/badge/XGBoost-005571?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=graphql&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 ### 🧬 Deep Learning Architectures
 ![CNNs](https://img.shields.io/badge/CNNs-00A67E?style=for-the-badge)
