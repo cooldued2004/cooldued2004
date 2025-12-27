@@ -93,10 +93,6 @@ Pomodoro + To-Do + Focus Music
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=cooldued2004&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cooldued2004&theme=radical&layout=compact&hide_border=false)
 ## 📊 GitHub Stats:
 
 <!-- Overall Stats -->
