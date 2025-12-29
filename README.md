@@ -119,26 +119,6 @@ Pomodoro + To-Do + Focus Music
 ---
 
 
-<!-- Streak Stats -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=cooldued2004&theme=radical&hide_border=false)
-
-<!-- Top Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cooldued2004&theme=radical&hide_border=false&layout=compact)
-
----
-
-<!-- Contribution Graph -->
-![](https://github-readme-activity-graph.vercel.app/graph?username=cooldued2004&theme=react-dark)
-
----
-
-<!-- Contributor Stats -->
-![](https://github-contributor-stats.vercel.app/api?username=cooldued2004&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-
-<!-- GitHub Trophies -->
-![](https://github-profile-trophy.vercel.app/?username=cooldued2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 ---
